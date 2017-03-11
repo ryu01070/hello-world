@@ -1,4 +1,2 @@
 # hello-world
-
-#mark up
-#첫 프로젝트
+브랜치 A 입니다.
